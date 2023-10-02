@@ -1,5 +1,5 @@
 module.exports = {
-    host : "https://back-farm-brown.vercel.app/",
+    host : "localhost",
     user : "root",
     password : "root",
     database : "farm"
